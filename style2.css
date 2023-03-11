@@ -137,6 +137,7 @@ section
 {
     color: #fff;
     font-size: 1em;
+    margin-right: 20px;
     margin-left: 50px;
 }
 .banner .content p
@@ -163,4 +164,17 @@ section
     font-weight: 500;
     letter-spacing: 1px;
     text-transform: uppercase;
+}
+.banners
+{
+    width : 275px;
+    height : 160px;
+    border-radius: 30px;
+}
+.alignLeft
+{
+    float: left;
+    padding-top: 20px;
+    padding-right: 15px;
+    align-items: left;
 }
